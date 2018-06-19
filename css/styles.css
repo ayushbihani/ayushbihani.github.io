@@ -1,0 +1,52 @@
+/* line 1, ../_sass/_base.scss */
+h1, h3, h4, h5, h6, p, li, div, a {
+  font-family: "Fira Sans", sans-serif; }
+
+/* line 5, ../_sass/_base.scss */
+body {
+  background: white;
+  width: 100%;
+  height: 100%; }
+
+/* line 11, ../_sass/_base.scss */
+header {
+  padding-top: 1%;
+  padding-bottom: 1%; }
+  /* line 15, ../_sass/_base.scss */
+  header .list-inline {
+    text-align: center;
+    padding: 2%; }
+  /* line 20, ../_sass/_base.scss */
+  header h1 {
+    text-align: center; }
+
+/* line 25, ../_sass/_base.scss */
+footer {
+  text-align: center; }
+
+/* line 29, ../_sass/_base.scss */
+hr {
+  width: 70%;
+  margin-top: 1%;
+  margin-bottom: 1%; }
+
+/* line 35, ../_sass/_base.scss */
+#profile-img {
+  width: 123px;
+  height: 154px;
+  margin: 0 auto;
+  border-radius: 50%;
+  border: 1px solid black;
+  box-shadow: 0 0 1em black;
+  margin-top: 3%; }
+
+/* line 45, ../_sass/_base.scss */
+#main {
+  padding-left: 20%;
+  padding-right: 20%; }
+  /* line 49, ../_sass/_base.scss */
+  #main #intro {
+    text-align: center; }
+  /* line 53, ../_sass/_base.scss */
+  #main a {
+    color: blue; }
